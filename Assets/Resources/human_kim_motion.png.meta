@@ -1,9 +1,65 @@
 fileFormatVersion: 2
 guid: be7f0f8ed2dfe4997a388bb636441bfe
-timeCreated: 1436270580
+timeCreated: 1436431695
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: human_kim_motion_0
+    21300002: human_kim_motion_1
+    21300004: human_kim_motion_2
+    21300006: human_kim_motion_3
+    21300008: human_kim_motion_4
+    21300010: human_kim_motion_5
+    21300012: human_kim_motion_6
+    21300014: human_kim_motion_7
+    21300016: human_kim_motion_8
+    21300018: human_kim_motion_9
+    21300020: human_kim_motion_10
+    21300022: human_kim_motion_11
+    21300024: human_kim_motion_12
+    21300026: human_kim_motion_13
+    21300028: human_kim_motion_14
+    21300030: human_kim_motion_15
+    21300032: human_kim_motion_16
+    21300034: human_kim_motion_17
+    21300036: human_kim_motion_18
+    21300038: human_kim_motion_19
+    21300040: human_kim_motion_20
+    21300042: human_kim_motion_21
+    21300044: human_kim_motion_22
+    21300046: human_kim_motion_23
+    21300048: human_kim_motion_24
+    21300050: human_kim_motion_25
+    21300052: human_kim_motion_26
+    21300054: human_kim_motion_27
+    21300056: human_kim_motion_28
+    21300058: human_kim_motion_29
+    21300060: human_kim_motion_30
+    21300062: human_kim_motion_31
+    21300064: human_kim_motion_32
+    21300066: human_kim_motion_33
+    21300068: human_kim_motion_34
+    21300070: human_kim_motion_35
+    21300072: human_kim_motion_36
+    21300074: human_kim_motion_37
+    21300076: human_kim_motion_38
+    21300078: human_kim_motion_39
+    21300080: human_kim_motion_40
+    21300082: human_kim_motion_41
+    21300084: human_kim_motion_42
+    21300086: human_kim_motion_43
+    21300088: human_kim_motion_44
+    21300090: human_kim_motion_45
+    21300092: human_kim_motion_46
+    21300094: human_kim_motion_47
+    21300096: human_kim_motion_48
+    21300098: human_kim_motion_49
+    21300100: human_kim_motion_50
+    21300102: human_kim_motion_51
+    21300104: human_kim_motion_52
+    21300106: human_kim_motion_53
+    21300108: human_kim_motion_54
+    21300110: human_kim_motion_55
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +86,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +104,567 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: human_kim_motion_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1021
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1021
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1013
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1013
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1019
+        width: 118
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1019
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1019
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1013
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 860
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 860
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 852
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 852
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 858
+        width: 128
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 863
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 859
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 842
+        width: 129
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 701
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 701
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 701
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 695
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 692
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 697
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 693
+        width: 133
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 681
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 542
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 537
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 534
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 532
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 531
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 536
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 532
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_31
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 525
+        width: 114
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 354
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 352
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 362
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 357
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 354
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_39
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 352
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 190
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_44
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 200
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 195
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_46
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 192
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_47
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 190
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 29
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 21
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 19
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 29
+        width: 113
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 24
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_54
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 21
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_kim_motion_55
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 19
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

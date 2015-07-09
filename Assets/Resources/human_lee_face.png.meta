@@ -1,9 +1,25 @@
 fileFormatVersion: 2
 guid: c3b9c0cd231144d26b9bda15c473e9d9
-timeCreated: 1436270580
+timeCreated: 1436431717
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: human_lee_face_0
+    21300002: human_lee_face_1
+    21300004: human_lee_face_2
+    21300006: human_lee_face_3
+    21300008: human_lee_face_4
+    21300010: human_lee_face_5
+    21300012: human_lee_face_6
+    21300014: human_lee_face_7
+    21300016: human_lee_face_8
+    21300018: human_lee_face_9
+    21300020: human_lee_face_10
+    21300022: human_lee_face_11
+    21300024: human_lee_face_12
+    21300026: human_lee_face_13
+    21300028: human_lee_face_14
+    21300030: human_lee_face_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +46,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +64,167 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: human_lee_face_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 586
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 586
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 586
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 392
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 392
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 392
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 200
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 200
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 200
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 6
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_lee_face_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 6
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
