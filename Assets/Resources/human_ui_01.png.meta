@@ -1,47 +1,47 @@
 fileFormatVersion: 2
 guid: 3b3a3e31b84fc4310930c3c1dc2e8dfa
-timeCreated: 1436431760
+timeCreated: 1436450008
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: human_ui_01_0
-    21300002: human_ui_01_1
-    21300004: human_ui_01_2
-    21300006: human_ui_01_3
-    21300008: human_ui_01_4
-    21300010: human_ui_01_5
-    21300012: human_ui_01_6
-    21300014: human_ui_01_7
-    21300016: human_ui_01_8
+    21300000: human_ui_01_body_01
+    21300002: human_ui_01_body_02
+    21300004: human_ui_01_body_03
+    21300006: human_ui_01_sub_body
+    21300008: human_ui_01_skil_01
+    21300010: human_ui_01_skil_02
+    21300012: human_ui_01_skil_03
+    21300014: human_ui_01_skil_04
+    21300016: human_ui_01_skil_05
     21300018: human_ui_01_9
     21300020: human_ui_01_10
     21300022: human_ui_01_11
     21300024: human_ui_01_12
     21300026: human_ui_01_13
     21300028: human_ui_01_14
-    21300030: human_ui_01_15
+    21300030: human_ui_01_attack_pressed_01
     21300032: human_ui_01_16
     21300034: human_ui_01_17
     21300036: human_ui_01_18
-    21300038: human_ui_01_19
-    21300040: human_ui_01_20
-    21300042: human_ui_01_21
-    21300044: human_ui_01_22
-    21300046: human_ui_01_23
-    21300048: human_ui_01_24
+    21300038: human_ui_01_skil_06
+    21300040: human_ui_01_skil_07
+    21300042: human_ui_01_skil_08
+    21300044: human_ui_01_skil_09
+    21300046: human_ui_01_skil_10
+    21300048: human_ui_01_attack_unpressed_01
     21300050: human_ui_01_25
-    21300052: human_ui_01_26
-    21300054: human_ui_01_27
-    21300056: human_ui_01_28
-    21300058: human_ui_01_29
-    21300060: human_ui_01_30
-    21300062: human_ui_01_31
-    21300064: human_ui_01_32
-    21300066: human_ui_01_33
-    21300068: human_ui_01_34
-    21300070: human_ui_01_35
+    21300052: human_ui_01_button_pressed_01
+    21300054: human_ui_01_button_unpressed_01
+    21300056: human_ui_01_defense_unpressed_01
+    21300058: human_ui_01_defense_pressed_01
+    21300060: human_ui_01_charge_unpressed_01
+    21300062: human_ui_01_charge_pressed_01
+    21300064: human_ui_01_arm_01
+    21300066: human_ui_01_arm_02
+    21300068: human_ui_01_arm_03
+    21300070: human_ui_01_replace_unpressed_01
     21300072: human_ui_01_36
-    21300074: human_ui_01_37
+    21300074: human_ui_01_replaced_pressed_01
     21300076: human_ui_01_38
   serializedVersion: 2
   mipmaps:
@@ -88,7 +88,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: human_ui_01_0
+    - name: human_ui_01_body_01
       rect:
         serializedVersion: 2
         x: 2
@@ -96,9 +96,9 @@ TextureImporter:
         width: 296
         height: 319
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_1
+    - name: human_ui_01_body_02
       rect:
         serializedVersion: 2
         x: 300
@@ -106,19 +106,19 @@ TextureImporter:
         width: 303
         height: 329
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_2
+    - name: human_ui_01_body_03
       rect:
         serializedVersion: 2
-        x: 603
-        y: 589
+        x: 601
+        y: 591
         width: 302
         height: 323
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_3
+    - name: human_ui_01_sub_body
       rect:
         serializedVersion: 2
         x: 4
@@ -126,9 +126,9 @@ TextureImporter:
         width: 87
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_4
+    - name: human_ui_01_skil_01
       rect:
         serializedVersion: 2
         x: 181
@@ -136,9 +136,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_5
+    - name: human_ui_01_skil_02
       rect:
         serializedVersion: 2
         x: 226
@@ -146,9 +146,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_6
+    - name: human_ui_01_skil_03
       rect:
         serializedVersion: 2
         x: 271
@@ -156,9 +156,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_7
+    - name: human_ui_01_skil_04
       rect:
         serializedVersion: 2
         x: 316
@@ -166,9 +166,9 @@ TextureImporter:
         width: 43
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_8
+    - name: human_ui_01_skil_05
       rect:
         serializedVersion: 2
         x: 362
@@ -176,17 +176,17 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_9
       rect:
         serializedVersion: 2
-        x: 17
-        y: 449
-        width: 54
-        height: 38
+        x: 730
+        y: 494
+        width: 53
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_10
       rect:
@@ -196,7 +196,7 @@ TextureImporter:
         width: 16
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_11
       rect:
@@ -206,7 +206,7 @@ TextureImporter:
         width: 12
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_12
       rect:
@@ -216,7 +216,7 @@ TextureImporter:
         width: 13
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_13
       rect:
@@ -226,7 +226,7 @@ TextureImporter:
         width: 9
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_14
       rect:
@@ -236,17 +236,17 @@ TextureImporter:
         width: 54
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_15
+    - name: human_ui_01_attack_pressed_01
       rect:
         serializedVersion: 2
-        x: 102
-        y: 486
-        width: 16
-        height: 19
+        x: 94
+        y: 441
+        width: 68
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_16
       rect:
@@ -256,7 +256,7 @@ TextureImporter:
         width: 12
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_17
       rect:
@@ -266,7 +266,7 @@ TextureImporter:
         width: 13
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_18
       rect:
@@ -276,9 +276,9 @@ TextureImporter:
         width: 9
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_19
+    - name: human_ui_01_skil_06
       rect:
         serializedVersion: 2
         x: 181
@@ -286,9 +286,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_20
+    - name: human_ui_01_skil_07
       rect:
         serializedVersion: 2
         x: 226
@@ -296,9 +296,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_21
+    - name: human_ui_01_skil_08
       rect:
         serializedVersion: 2
         x: 271
@@ -306,9 +306,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_22
+    - name: human_ui_01_skil_09
       rect:
         serializedVersion: 2
         x: 316
@@ -316,9 +316,9 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_23
+    - name: human_ui_01_skil_10
       rect:
         serializedVersion: 2
         x: 362
@@ -326,29 +326,29 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_24
+    - name: human_ui_01_attack_unpressed_01
       rect:
         serializedVersion: 2
-        x: 43
-        y: 456
-        width: 35
-        height: 23
+        x: 16
+        y: 447
+        width: 67
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_25
       rect:
         serializedVersion: 2
-        x: 121
+        x: 119
         y: 456
         width: 35
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_26
+    - name: human_ui_01_button_pressed_01
       rect:
         serializedVersion: 2
         x: 189
@@ -356,9 +356,9 @@ TextureImporter:
         width: 225
         height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_27
+    - name: human_ui_01_button_unpressed_01
       rect:
         serializedVersion: 2
         x: 431
@@ -366,9 +366,9 @@ TextureImporter:
         width: 225
         height: 149
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_28
+    - name: human_ui_01_defense_unpressed_01
       rect:
         serializedVersion: 2
         x: 15
@@ -376,19 +376,19 @@ TextureImporter:
         width: 69
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_29
+    - name: human_ui_01_defense_pressed_01
       rect:
         serializedVersion: 2
-        x: 93
+        x: 95
         y: 379
         width: 69
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_30
+    - name: human_ui_01_charge_unpressed_01
       rect:
         serializedVersion: 2
         x: 8
@@ -396,9 +396,9 @@ TextureImporter:
         width: 78
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_31
+    - name: human_ui_01_charge_pressed_01
       rect:
         serializedVersion: 2
         x: 86
@@ -406,9 +406,9 @@ TextureImporter:
         width: 78
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_32
+    - name: human_ui_01_arm_01
       rect:
         serializedVersion: 2
         x: 176
@@ -416,9 +416,9 @@ TextureImporter:
         width: 249
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_33
+    - name: human_ui_01_arm_02
       rect:
         serializedVersion: 2
         x: 419
@@ -426,9 +426,9 @@ TextureImporter:
         width: 249
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_34
+    - name: human_ui_01_arm_03
       rect:
         serializedVersion: 2
         x: 668
@@ -436,17 +436,17 @@ TextureImporter:
         width: 249
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_35
+    - name: human_ui_01_replace_unpressed_01
       rect:
         serializedVersion: 2
-        x: 10
-        y: 248
-        width: 71
-        height: 31
+        x: 8
+        y: 242
+        width: 75
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_36
       rect:
@@ -456,17 +456,17 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_ui_01_37
+    - name: human_ui_01_replaced_pressed_01
       rect:
         serializedVersion: 2
-        x: 88
-        y: 248
-        width: 71
-        height: 31
+        x: 86
+        y: 244
+        width: 82
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_ui_01_38
       rect:
@@ -476,7 +476,7 @@ TextureImporter:
         width: 65
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

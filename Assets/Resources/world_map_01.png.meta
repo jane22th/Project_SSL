@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: 3d0d3866d2cdb42a6964fbb02717b8f2
-timeCreated: 1436431797
+timeCreated: 1436516938
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: world_map_01_0
-    21300002: world_map_01_1
-    21300004: world_map_01_2
+    21300000: world_map_01_tile
+    21300002: world_map_01_small_obstacle
+    21300004: world_map_01_big_obstacle
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -52,7 +52,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: world_map_01_0
+    - name: world_map_01_tile
       rect:
         serializedVersion: 2
         x: 3
@@ -60,27 +60,27 @@ TextureImporter:
         width: 795
         height: 930
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: world_map_01_1
+    - name: world_map_01_small_obstacle
       rect:
         serializedVersion: 2
         x: 814
         y: 1061
         width: 153
         height: 207
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .500000417, y: .174070492}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: world_map_01_2
+    - name: world_map_01_big_obstacle
       rect:
         serializedVersion: 2
         x: 797
         y: 766
         width: 295
         height: 295
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .492815018, y: .244288146}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

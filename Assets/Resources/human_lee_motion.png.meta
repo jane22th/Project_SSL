@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a5ab24bcaf0b6464fba063481e47b524
-timeCreated: 1436431735
+timeCreated: 1436516437
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -112,8 +112,8 @@ TextureImporter:
         y: 1021
         width: 113
         height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_1
       rect:
@@ -122,7 +122,7 @@ TextureImporter:
         y: 1021
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_2
@@ -132,7 +132,7 @@ TextureImporter:
         y: 1013
         width: 135
         height: 151
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_3
@@ -142,7 +142,7 @@ TextureImporter:
         y: 1013
         width: 135
         height: 151
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_4
@@ -152,7 +152,7 @@ TextureImporter:
         y: 1019
         width: 118
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_5
@@ -162,7 +162,7 @@ TextureImporter:
         y: 1019
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_6
@@ -172,7 +172,7 @@ TextureImporter:
         y: 1019
         width: 135
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_7
@@ -182,7 +182,7 @@ TextureImporter:
         y: 1013
         width: 135
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_8
@@ -192,7 +192,7 @@ TextureImporter:
         y: 860
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_9
@@ -202,7 +202,7 @@ TextureImporter:
         y: 860
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_10
@@ -212,7 +212,7 @@ TextureImporter:
         y: 852
         width: 135
         height: 151
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_11
@@ -222,7 +222,7 @@ TextureImporter:
         y: 852
         width: 135
         height: 151
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_12
@@ -232,7 +232,7 @@ TextureImporter:
         y: 858
         width: 128
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_13
@@ -242,7 +242,7 @@ TextureImporter:
         y: 863
         width: 103
         height: 138
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_14
@@ -252,17 +252,17 @@ TextureImporter:
         y: 859
         width: 135
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_15
       rect:
         serializedVersion: 2
         x: 912
-        y: 842
+        y: 852
         width: 129
-        height: 167
-      alignment: 0
+        height: 157
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_16
@@ -272,7 +272,7 @@ TextureImporter:
         y: 701
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_17
@@ -282,7 +282,7 @@ TextureImporter:
         y: 701
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_18
@@ -292,7 +292,7 @@ TextureImporter:
         y: 701
         width: 135
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_19
@@ -302,7 +302,7 @@ TextureImporter:
         y: 695
         width: 135
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_20
@@ -312,7 +312,7 @@ TextureImporter:
         y: 692
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_21
@@ -322,7 +322,7 @@ TextureImporter:
         y: 697
         width: 110
         height: 138
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_22
@@ -332,17 +332,17 @@ TextureImporter:
         y: 693
         width: 133
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_23
       rect:
         serializedVersion: 2
         x: 912
-        y: 681
-        width: 129
-        height: 158
-      alignment: 0
+        y: 686
+        width: 114
+        height: 153
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_24
@@ -352,7 +352,7 @@ TextureImporter:
         y: 542
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_25
@@ -362,7 +362,7 @@ TextureImporter:
         y: 537
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_26
@@ -372,7 +372,7 @@ TextureImporter:
         y: 534
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_27
@@ -382,7 +382,7 @@ TextureImporter:
         y: 532
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_28
@@ -392,7 +392,7 @@ TextureImporter:
         y: 531
         width: 113
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_29
@@ -402,7 +402,7 @@ TextureImporter:
         y: 536
         width: 103
         height: 138
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_30
@@ -412,7 +412,7 @@ TextureImporter:
         y: 532
         width: 122
         height: 143
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_31
@@ -422,7 +422,7 @@ TextureImporter:
         y: 525
         width: 114
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_32
@@ -432,7 +432,7 @@ TextureImporter:
         y: 362
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_33
@@ -442,7 +442,7 @@ TextureImporter:
         y: 357
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_34
@@ -452,7 +452,7 @@ TextureImporter:
         y: 354
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_35
@@ -462,7 +462,7 @@ TextureImporter:
         y: 352
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_36
@@ -472,7 +472,7 @@ TextureImporter:
         y: 362
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_37
@@ -482,7 +482,7 @@ TextureImporter:
         y: 357
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_38
@@ -492,7 +492,7 @@ TextureImporter:
         y: 354
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_39
@@ -502,7 +502,7 @@ TextureImporter:
         y: 352
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_40
@@ -512,7 +512,7 @@ TextureImporter:
         y: 200
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_41
@@ -522,7 +522,7 @@ TextureImporter:
         y: 195
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_42
@@ -532,7 +532,7 @@ TextureImporter:
         y: 192
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_43
@@ -542,7 +542,7 @@ TextureImporter:
         y: 190
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_44
@@ -552,7 +552,7 @@ TextureImporter:
         y: 200
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_45
@@ -562,7 +562,7 @@ TextureImporter:
         y: 195
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_46
@@ -572,7 +572,7 @@ TextureImporter:
         y: 192
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_47
@@ -582,7 +582,7 @@ TextureImporter:
         y: 190
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_48
@@ -592,7 +592,7 @@ TextureImporter:
         y: 29
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_49
@@ -602,7 +602,7 @@ TextureImporter:
         y: 24
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_50
@@ -612,7 +612,7 @@ TextureImporter:
         y: 21
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_51
@@ -622,7 +622,7 @@ TextureImporter:
         y: 19
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_52
@@ -632,7 +632,7 @@ TextureImporter:
         y: 29
         width: 113
         height: 144
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_53
@@ -642,7 +642,7 @@ TextureImporter:
         y: 24
         width: 113
         height: 149
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_54
@@ -652,7 +652,7 @@ TextureImporter:
         y: 21
         width: 135
         height: 152
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_motion_55
@@ -662,7 +662,7 @@ TextureImporter:
         y: 19
         width: 135
         height: 154
-      alignment: 0
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
