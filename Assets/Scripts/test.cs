@@ -22,7 +22,7 @@ public class test : MonoBehaviour {
 
 	void OnTriggerStay2D(Collider2D other)
 	{
-		Debug.Log ("stay!");
+		//Debug.Log ("stay!");
 	}
 	
 	void OnTriggerExit2D(Collider2D other)

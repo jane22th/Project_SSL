@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: b137eac51b87b47cd974f1a19450c7b8
+timeCreated: 1436844728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: human_ui_body_01
+    21300002: human_ui_body_02
+    21300004: human_ui_body_03
+    21300006: human_ui_skill_01
+    21300008: human_ui_skill_02
+    21300010: human_ui_skill_03
+    21300012: human_ui_skill_04
+    21300014: human_ui_skill_05
+    21300016: human_ui_sub_body
+    21300018: human_ui_skill_06
+    21300020: human_ui_skill_07
+    21300022: human_ui_skill_08
+    21300024: human_ui_skill_09
+    21300026: human_ui_skill_10
+    21300028: human_ui_button_pressed
+    21300030: human_ui_button_unpressed
+    21300032: human_ui_button_pressed_disable
+    21300034: human_ui_button_unpressed_disable
+    21300036: human_ui_attack_unpressed
+    21300038: human_ui_attack_pressed
+    21300040: human_ui_arm_01
+    21300042: human_ui_arm_02
+    21300044: human_ui_arm_03
+    21300046: human_ui_defense_unpressed
+    21300048: human_ui_defense_pressed
+    21300050: human_ui_charge_unpressed
+    21300052: human_ui_charge_pressed
+    21300054: human_ui_replace_unpressed
+    21300056: human_ui_replace_pressed
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: human_ui_body_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 598
+        width: 296
+        height: 319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_body_02
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 591
+        width: 303
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_body_03
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 594
+        width: 302
+        height: 323
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 532
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_02
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 532
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_03
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 532
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_04
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 532
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_05
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 532
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_sub_body
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 471
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_06
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_07
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 467
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_08
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 467
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_09
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 467
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_skill_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 467
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_button_pressed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 225
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_button_unpressed
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 316
+        width: 225
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_button_pressed_disable
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 321
+        width: 225
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_button_unpressed_disable
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 321
+        width: 225
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_attack_unpressed
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 236
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_attack_pressed
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 238
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_arm_01
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 249
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_arm_02
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 249
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_arm_03
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 249
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_defense_unpressed
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_defense_pressed
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 166
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_charge_unpressed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_charge_pressed
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_replace_unpressed
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: human_ui_replace_pressed
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
