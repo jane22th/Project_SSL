@@ -70,4 +70,38 @@ namespace Flag{
 		}
 
 	}
+
+	public class Face : MonoBehaviour {
+		static FlagFaceState m_state;
+		
+		public enum FlagFaceState{
+			STATE_BLINK = 1<<1,
+			STATE_ATTACK = 1<<2,
+			STATE_TELL = 1<<3,
+			STATE_CHARGE = 1<<4,
+			STATE_DANGER = 1<<5,
+			STATE_HIT = 1<<6
+		};
+		
+		public static void set(FlagFaceState f){
+			m_state |= f;
+		}
+		
+		public static void reset(FlagFaceState f){
+			m_state &= ~f;
+		}
+		
+		public static bool check(FlagFaceState f){
+			return ((m_state & f) != 0);
+		}
+		
+		public static FlagFaceState get(){
+			return m_state;
+		}
+		
+		public static void init(FlagFaceState f){
+			m_state = f;
+		}
+		
+	}
 }

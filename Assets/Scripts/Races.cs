@@ -4,6 +4,7 @@ using Flag;
 
 public class Races : MonoBehaviour {
 	
+
 	void Start () {
 
 	}

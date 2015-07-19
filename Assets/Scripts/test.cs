@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Flag;
 
 public class test : MonoBehaviour {
 	int flag = 0;
 	// Use this for initialization
 	void Start () {
-	
+		Face f = new Face ();
+		//f.executeAnimation (Flag.Face.FlagFaceState.STATE_ATTACK);
 	}
 	
 	// Update is called once per frame

@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: c3b9c0cd231144d26b9bda15c473e9d9
-timeCreated: 1436431717
+timeCreated: 1437024798
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: human_lee_face_0
-    21300002: human_lee_face_1
-    21300004: human_lee_face_2
-    21300006: human_lee_face_3
-    21300008: human_lee_face_4
-    21300010: human_lee_face_5
-    21300012: human_lee_face_6
-    21300014: human_lee_face_7
-    21300016: human_lee_face_8
-    21300018: human_lee_face_9
-    21300020: human_lee_face_10
-    21300022: human_lee_face_11
+    21300000: human_lee_basic
+    21300002: human_lee_blink
+    21300004: human_lee_tell_01
+    21300006: human_lee_tell_02
+    21300008: human_lee_atk_01
+    21300010: human_lee_atk_02
+    21300012: human_lee_hit_01
+    21300014: human_lee_hit_02
+    21300016: human_lee_charge_01
+    21300018: human_lee_charge_02
+    21300020: human_lee_danger_01
+    21300022: human_lee_danger_02
     21300024: human_lee_face_12
     21300026: human_lee_face_13
     21300028: human_lee_face_14
@@ -65,7 +65,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: human_lee_face_0
+    - name: human_lee_basic
       rect:
         serializedVersion: 2
         x: 0
@@ -73,9 +73,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_1
+    - name: human_lee_blink
       rect:
         serializedVersion: 2
         x: 191
@@ -83,9 +83,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_2
+    - name: human_lee_tell_01
       rect:
         serializedVersion: 2
         x: 382
@@ -93,9 +93,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_3
+    - name: human_lee_tell_02
       rect:
         serializedVersion: 2
         x: 575
@@ -103,9 +103,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_4
+    - name: human_lee_atk_01
       rect:
         serializedVersion: 2
         x: 0
@@ -113,9 +113,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_5
+    - name: human_lee_atk_02
       rect:
         serializedVersion: 2
         x: 191
@@ -123,9 +123,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_6
+    - name: human_lee_hit_01
       rect:
         serializedVersion: 2
         x: 382
@@ -133,9 +133,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_7
+    - name: human_lee_hit_02
       rect:
         serializedVersion: 2
         x: 575
@@ -143,9 +143,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_8
+    - name: human_lee_charge_01
       rect:
         serializedVersion: 2
         x: 0
@@ -153,9 +153,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_9
+    - name: human_lee_charge_02
       rect:
         serializedVersion: 2
         x: 191
@@ -163,9 +163,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_10
+    - name: human_lee_danger_01
       rect:
         serializedVersion: 2
         x: 382
@@ -173,9 +173,9 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_lee_face_11
+    - name: human_lee_danger_02
       rect:
         serializedVersion: 2
         x: 575
@@ -183,7 +183,7 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_face_12
       rect:
@@ -193,7 +193,7 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_face_13
       rect:
@@ -203,7 +203,7 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_face_14
       rect:
@@ -213,7 +213,7 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_lee_face_15
       rect:
@@ -223,7 +223,7 @@ TextureImporter:
         width: 186
         height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

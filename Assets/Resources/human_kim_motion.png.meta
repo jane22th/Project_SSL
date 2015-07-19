@@ -1,53 +1,53 @@
 fileFormatVersion: 2
 guid: be7f0f8ed2dfe4997a388bb636441bfe
-timeCreated: 1436516387
+timeCreated: 1437279862
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: human_kim_motion_0
-    21300002: human_kim_motion_1
-    21300004: human_kim_motion_2
-    21300006: human_kim_motion_3
-    21300008: human_kim_motion_4
-    21300010: human_kim_motion_5
-    21300012: human_kim_motion_6
-    21300014: human_kim_motion_7
-    21300016: human_kim_motion_8
-    21300018: human_kim_motion_9
-    21300020: human_kim_motion_10
-    21300022: human_kim_motion_11
-    21300024: human_kim_motion_12
-    21300026: human_kim_motion_13
-    21300028: human_kim_motion_14
-    21300030: human_kim_motion_15
-    21300032: human_kim_motion_16
-    21300034: human_kim_motion_17
-    21300036: human_kim_motion_18
-    21300038: human_kim_motion_19
-    21300040: human_kim_motion_20
-    21300042: human_kim_motion_21
-    21300044: human_kim_motion_22
-    21300046: human_kim_motion_23
-    21300048: human_kim_motion_24
-    21300050: human_kim_motion_25
-    21300052: human_kim_motion_26
-    21300054: human_kim_motion_27
-    21300056: human_kim_motion_28
-    21300058: human_kim_motion_29
-    21300060: human_kim_motion_30
-    21300062: human_kim_motion_31
-    21300064: human_kim_motion_32
-    21300066: human_kim_motion_33
-    21300068: human_kim_motion_34
-    21300070: human_kim_motion_35
+    21300000: human_kim_ld_basic
+    21300002: human_kim_rd_basic
+    21300004: human_kim_ru_basic
+    21300006: human_kim_lu_basic
+    21300008: human_kim_ld_hook_01
+    21300010: human_kim_rd_hook_01
+    21300012: human_kim_ru_hook_01
+    21300014: human_kim_lu_hook_01
+    21300016: human_kim_ld_blink
+    21300018: human_kim_rd_blink
+    21300020: human_kim_ru_blink
+    21300022: human_kim_lu_blink
+    21300024: human_kim_ld_hook_02
+    21300026: human_kim_rd_hook_02
+    21300028: human_kim_ru_hook_02
+    21300030: human_kim_lu_hook_02
+    21300032: human_kim_ld_run_01
+    21300034: human_kim_rd_run_01
+    21300036: human_kim_ru_run_01
+    21300038: human_kim_lu_run_01
+    21300040: human_kim_ld_hook_03
+    21300042: human_kim_rd_hook_03
+    21300044: human_kim_ru_hook_03
+    21300046: human_kim_lu_hook_03
+    21300048: human_kim_ld_run_02
+    21300050: human_kim_rd_run_02
+    21300052: human_kim_ru_run_02
+    21300054: human_kim_lu_run_02
+    21300056: human_kim_ld_hook_04
+    21300058: human_kim_rd_hook_04
+    21300060: human_kim_ru_hook_04
+    21300062: human_kim_lu_hook_04
+    21300064: human_kim_ld_charge_01
+    21300066: human_kim_rd_charge_01
+    21300068: human_kim_ru_charge_01
+    21300070: human_kim_lu_charge_01
     21300072: human_kim_motion_36
     21300074: human_kim_motion_37
     21300076: human_kim_motion_38
     21300078: human_kim_motion_39
-    21300080: human_kim_motion_40
-    21300082: human_kim_motion_41
-    21300084: human_kim_motion_42
-    21300086: human_kim_motion_43
+    21300080: human_kim_ld_charge_02
+    21300082: human_kim_rd_charge_02
+    21300084: human_kim_ru_charge_02
+    21300086: human_kim_lu_charge_02
     21300088: human_kim_motion_44
     21300090: human_kim_motion_45
     21300092: human_kim_motion_46
@@ -105,7 +105,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: human_kim_motion_0
+    - name: human_kim_ld_basic
       rect:
         serializedVersion: 2
         x: 3
@@ -115,7 +115,7 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_1
+    - name: human_kim_rd_basic
       rect:
         serializedVersion: 2
         x: 121
@@ -125,7 +125,7 @@ TextureImporter:
       alignment: 7
       pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_2
+    - name: human_kim_ru_basic
       rect:
         serializedVersion: 2
         x: 234
@@ -133,9 +133,9 @@ TextureImporter:
         width: 135
         height: 151
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_3
+    - name: human_kim_lu_basic
       rect:
         serializedVersion: 2
         x: 375
@@ -143,9 +143,9 @@ TextureImporter:
         width: 135
         height: 151
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_4
+    - name: human_kim_ld_hook_01
       rect:
         serializedVersion: 2
         x: 535
@@ -153,9 +153,9 @@ TextureImporter:
         width: 118
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_5
+    - name: human_kim_rd_hook_01
       rect:
         serializedVersion: 2
         x: 658
@@ -163,9 +163,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_6
+    - name: human_kim_ru_hook_01
       rect:
         serializedVersion: 2
         x: 771
@@ -173,9 +173,9 @@ TextureImporter:
         width: 135
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_7
+    - name: human_kim_lu_hook_01
       rect:
         serializedVersion: 2
         x: 912
@@ -183,9 +183,9 @@ TextureImporter:
         width: 135
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_8
+    - name: human_kim_ld_blink
       rect:
         serializedVersion: 2
         x: 3
@@ -193,9 +193,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_9
+    - name: human_kim_rd_blink
       rect:
         serializedVersion: 2
         x: 121
@@ -203,9 +203,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_10
+    - name: human_kim_ru_blink
       rect:
         serializedVersion: 2
         x: 234
@@ -213,9 +213,9 @@ TextureImporter:
         width: 135
         height: 151
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_11
+    - name: human_kim_lu_blink
       rect:
         serializedVersion: 2
         x: 375
@@ -223,9 +223,9 @@ TextureImporter:
         width: 135
         height: 151
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_12
+    - name: human_kim_ld_hook_02
       rect:
         serializedVersion: 2
         x: 525
@@ -233,9 +233,9 @@ TextureImporter:
         width: 128
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_13
+    - name: human_kim_rd_hook_02
       rect:
         serializedVersion: 2
         x: 668
@@ -243,9 +243,9 @@ TextureImporter:
         width: 103
         height: 138
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_14
+    - name: human_kim_ru_hook_02
       rect:
         serializedVersion: 2
         x: 771
@@ -253,9 +253,9 @@ TextureImporter:
         width: 135
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_15
+    - name: human_kim_lu_hook_02
       rect:
         serializedVersion: 2
         x: 912
@@ -263,9 +263,9 @@ TextureImporter:
         width: 129
         height: 157
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_16
+    - name: human_kim_ld_run_01
       rect:
         serializedVersion: 2
         x: 3
@@ -273,9 +273,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_17
+    - name: human_kim_rd_run_01
       rect:
         serializedVersion: 2
         x: 121
@@ -283,9 +283,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_18
+    - name: human_kim_ru_run_01
       rect:
         serializedVersion: 2
         x: 234
@@ -293,9 +293,9 @@ TextureImporter:
         width: 135
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_19
+    - name: human_kim_lu_run_01
       rect:
         serializedVersion: 2
         x: 375
@@ -303,9 +303,9 @@ TextureImporter:
         width: 135
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_20
+    - name: human_kim_ld_hook_03
       rect:
         serializedVersion: 2
         x: 540
@@ -313,9 +313,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_21
+    - name: human_kim_rd_hook_03
       rect:
         serializedVersion: 2
         x: 668
@@ -323,9 +323,9 @@ TextureImporter:
         width: 110
         height: 138
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_22
+    - name: human_kim_ru_hook_03
       rect:
         serializedVersion: 2
         x: 771
@@ -333,9 +333,9 @@ TextureImporter:
         width: 133
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_23
+    - name: human_kim_lu_hook_03
       rect:
         serializedVersion: 2
         x: 912
@@ -343,9 +343,9 @@ TextureImporter:
         width: 114
         height: 153
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_24
+    - name: human_kim_ld_run_02
       rect:
         serializedVersion: 2
         x: 3
@@ -353,9 +353,9 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_25
+    - name: human_kim_rd_run_02
       rect:
         serializedVersion: 2
         x: 121
@@ -363,9 +363,9 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_26
+    - name: human_kim_ru_run_02
       rect:
         serializedVersion: 2
         x: 234
@@ -373,9 +373,9 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_27
+    - name: human_kim_lu_run_02
       rect:
         serializedVersion: 2
         x: 375
@@ -383,9 +383,9 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_28
+    - name: human_kim_ld_hook_04
       rect:
         serializedVersion: 2
         x: 540
@@ -393,9 +393,9 @@ TextureImporter:
         width: 113
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_29
+    - name: human_kim_rd_hook_04
       rect:
         serializedVersion: 2
         x: 668
@@ -403,9 +403,9 @@ TextureImporter:
         width: 103
         height: 138
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_30
+    - name: human_kim_ru_hook_04
       rect:
         serializedVersion: 2
         x: 782
@@ -413,9 +413,9 @@ TextureImporter:
         width: 122
         height: 143
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_31
+    - name: human_kim_lu_hook_04
       rect:
         serializedVersion: 2
         x: 912
@@ -423,9 +423,9 @@ TextureImporter:
         width: 114
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_32
+    - name: human_kim_ld_charge_01
       rect:
         serializedVersion: 2
         x: 3
@@ -433,9 +433,9 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_33
+    - name: human_kim_rd_charge_01
       rect:
         serializedVersion: 2
         x: 121
@@ -443,9 +443,9 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_34
+    - name: human_kim_ru_charge_01
       rect:
         serializedVersion: 2
         x: 234
@@ -453,9 +453,9 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_35
+    - name: human_kim_lu_charge_01
       rect:
         serializedVersion: 2
         x: 375
@@ -463,7 +463,7 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_36
       rect:
@@ -473,7 +473,7 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_37
       rect:
@@ -483,7 +483,7 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_38
       rect:
@@ -493,7 +493,7 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_39
       rect:
@@ -503,9 +503,9 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_40
+    - name: human_kim_ld_charge_02
       rect:
         serializedVersion: 2
         x: 3
@@ -513,9 +513,9 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_41
+    - name: human_kim_rd_charge_02
       rect:
         serializedVersion: 2
         x: 121
@@ -523,9 +523,9 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_42
+    - name: human_kim_ru_charge_02
       rect:
         serializedVersion: 2
         x: 234
@@ -533,9 +533,9 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: human_kim_motion_43
+    - name: human_kim_lu_charge_02
       rect:
         serializedVersion: 2
         x: 375
@@ -543,7 +543,7 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_44
       rect:
@@ -553,7 +553,7 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_45
       rect:
@@ -563,7 +563,7 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_46
       rect:
@@ -573,7 +573,7 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_47
       rect:
@@ -583,7 +583,7 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_48
       rect:
@@ -593,7 +593,7 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_49
       rect:
@@ -603,7 +603,7 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_50
       rect:
@@ -613,7 +613,7 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_51
       rect:
@@ -623,7 +623,7 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_52
       rect:
@@ -633,7 +633,7 @@ TextureImporter:
         width: 113
         height: 144
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_53
       rect:
@@ -643,7 +643,7 @@ TextureImporter:
         width: 113
         height: 149
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_54
       rect:
@@ -653,7 +653,7 @@ TextureImporter:
         width: 135
         height: 152
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: human_kim_motion_55
       rect:
@@ -663,7 +663,7 @@ TextureImporter:
         width: 135
         height: 154
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
