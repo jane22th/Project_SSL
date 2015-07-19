@@ -3,22 +3,23 @@ using System.Collections;
 using Flag;
 
 public class Controller : MonoBehaviour {
-	GameObject m_player_object;
-	Player m_player;
+	Races m_race;
 
 	void Start() {
-		m_player_object = GameObject.Find ("player");
-		m_player = m_player_object.GetComponent<Player>();
+		m_race = GetComponent<Races>();
 	}
 	void Update () {
-		if (Flag.Button.get () != Flag.Button.FlagButton.BUTTON_INACTIVITY) {
-			Flag.Character.init (m_player.m_state);
+		if (Flag.Button.get () != Flag.Button.FlagButton.BUTTON_NOTHING) {
+			Flag.Character.init (m_race.m_state);
 			if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_ATTACK)) {
+				Flag.Button.reset (Flag.Button.FlagButton.BUTTON_ATTACK);
 				Flag.Character.set (Flag.Character.FlagState.STATE_ATTACKING);
 			} else if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_DEFENSE)) {
-
+				Flag.Button.reset (Flag.Button.FlagButton.BUTTON_DEFENSE);
+				Flag.Character.set (Flag.Character.FlagState.STATE_DEFENSING);
 			} else if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_CHARGE)) {
-
+				Flag.Button.reset (Flag.Button.FlagButton.BUTTON_CHARGE);
+				Flag.Character.set (Flag.Character.FlagState.STATE_CHARGING);
 			} else if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_REPLACE)) {
 
 			} else if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_LSKILL)) {
@@ -26,7 +27,7 @@ public class Controller : MonoBehaviour {
 			} else if (Flag.Button.check (Flag.Button.FlagButton.BUTTON_RSKILL)) {
 
 			}
-			m_player.m_state = Flag.Character.get ();
+			m_race.m_state = Flag.Character.get ();
 			StartCoroutine(clearButton(Flag.Button.m_button_time));
 		}
 	}

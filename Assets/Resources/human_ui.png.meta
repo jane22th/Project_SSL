@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b137eac51b87b47cd974f1a19450c7b8
-timeCreated: 1436844728
+timeCreated: 1437274512
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -232,7 +232,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 230
-        y: 316
+        y: 318
         width: 225
         height: 149
       alignment: 0
@@ -291,7 +291,7 @@ TextureImporter:
     - name: human_ui_arm_02
       rect:
         serializedVersion: 2
-        x: 417
+        x: 415
         y: 0
         width: 249
         height: 311
