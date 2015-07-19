@@ -35,13 +35,5 @@ public class Controller : MonoBehaviour {
 	IEnumerator clearButton(float time){
 		yield return new WaitForSeconds (time);
 		Flag.Button.clear ();
-		/*
-		GameObject obj_button = GameObject.Find("button_right_top");
-		SpriteRenderer button_sprite = obj_button.GetComponent<SpriteRenderer>();
-		button_sprite.sprite = (Sprite)Scene.m_ui[11];
-		GameObject obj = GameObject.Find ("button_attack");
-		SpriteRenderer attack_sprite = obj.GetComponent<SpriteRenderer>();
-		attack_sprite.sprite = (Sprite)Scene.m_ui[5];
-		*/
 	}
 }

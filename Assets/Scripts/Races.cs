@@ -44,9 +44,9 @@ public class Races : MonoBehaviour {
 			GameObject object_opponent = GameObject.Find (opponent);
 			Races race_opponent = object_opponent.GetComponent<Races> ();
 			//accelation
-			//Vector3 direction = object_opponent.transform.position - transform.position;
+			Vector3 direction = object_opponent.transform.position - transform.position;
 			//normal
-			Vector3 direction = Scene.init_position [(int)race_opponent.m_direction] - Scene.init_position [(int)m_direction];
+			//Vector3 direction = Scene.init_position [(int)race_opponent.m_direction] - Scene.init_position [(int)m_direction];
 			float speed = 0;
 			direction = normalize (direction, ref speed);
 

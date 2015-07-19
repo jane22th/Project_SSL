@@ -1,9 +1,57 @@
 fileFormatVersion: 2
 guid: ab4ce90f6ff9c4fbeac67171dea7cbf5
-timeCreated: 1436843605
+timeCreated: 1437222055
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: timer_base
+    21300002: timer_shader
+    21300004: item_timer_2
+    21300006: item_timer_3
+    21300008: item_timer_4
+    21300010: item_timer_5
+    21300012: item_timer_6
+    21300014: item_timer_7
+    21300016: item_timer_8
+    21300018: item_timer_9
+    21300020: item_timer_10
+    21300022: item_timer_11
+    21300024: item_timer_12
+    21300026: item_timer_13
+    21300028: item_timer_14
+    21300030: item_timer_15
+    21300032: item_timer_16
+    21300034: item_timer_17
+    21300036: item_timer_18
+    21300038: item_timer_19
+    21300040: item_timer_20
+    21300042: item_timer_21
+    21300044: item_timer_22
+    21300046: item_timer_23
+    21300048: item_timer_24
+    21300050: item_timer_25
+    21300052: item_timer_26
+    21300054: item_timer_27
+    21300056: item_timer_28
+    21300058: item_timer_29
+    21300060: item_timer_30
+    21300062: item_timer_31
+    21300064: item_timer_32
+    21300066: item_timer_33
+    21300068: item_timer_34
+    21300070: item_timer_35
+    21300072: item_timer_36
+    21300074: item_timer_37
+    21300076: item_timer_38
+    21300078: item_timer_39
+    21300080: item_timer_40
+    21300082: item_timer_41
+    21300084: item_timer_42
+    21300086: item_timer_43
+    21300088: item_timer_44
+    21300090: item_timer_45
+    21300092: item_timer_46
+    21300094: item_timer_47
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +78,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +96,487 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: timer_base
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 644
+        width: 274
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_shader
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 646
+        width: 274
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 733
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 576
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 578
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 582
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 579
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 578
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 579
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 520
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 520
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 547
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 520
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 517
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 529
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 520
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 427
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 429
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 434
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 431
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 430
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 431
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 360
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 357
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 360
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 281
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 282
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 226
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 225
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 149
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 154
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 158
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 161
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 162
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 76
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 87
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_timer_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 88
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
